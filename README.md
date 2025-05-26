@@ -3,7 +3,7 @@ Jack of all trades, master of none
 Currently:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git,py,html,ubuntu,vscode,notion" />
+    <img src="https://skillicons.dev/icons?i=bash,git,py,html,ubuntu" />
   </a>
 </p>
 <!---
