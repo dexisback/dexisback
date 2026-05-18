@@ -11,5 +11,5 @@ dexisback/dexisback is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-  <img src="https://ren0va.amaanworks.me/icons?i=react,custom:custom/cp_orange-mpbpt28i&theme=dark&perline=4" alt="Tech stack icons" />
+  <img src="http://ren0va.amaanworks.me/icons?i=react%2Ccustom%3Acustom%2Fcp_orange-mpbsex8q&theme=undefined&perline=4" />
 </p>
