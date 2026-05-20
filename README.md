@@ -15,3 +15,5 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <img src="https://ren0va.amaanworks.me/icons?i=react%2Ccustom%3Acustom%2Fclashofclans-mpcmhoid&theme=undefined&perline=4" />
+<img src="https://ren0va.amaanworks.me/icons?i=activitypub&theme=dark&perline=3" />
+<img src="https://ren0va.amaanworks.me/icons?i=custom%3Acustom%2Fcp_orange-mpdfy9yi&theme=dark&perline=3" />
