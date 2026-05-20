@@ -10,7 +10,7 @@ Currently:
 dexisback/dexisback is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-checkout how i added the below icons @ github.com/dexisback/ren0va : ^^
+checkout how i added the below icons @ <link>github.com/dexisback/ren0va</link> : ^^
 <p align="center">
   <img src="https://ren0va.amaanworks.me/icons?i=react%2Ccustom%3Acustom%2Fclashofclans-mpcmhoid&theme=undefined&perline=4" />  
 </p>
