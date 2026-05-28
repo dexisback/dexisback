@@ -14,6 +14,7 @@ checkout how i added the below skill icons @
 <a href="https://github.com/dexisback/ren0va">ren0va</a> : 
 <p align="center">
   <img src="https://ren0va.amaanworks.me/icons?i=react%2Ccustom%3Acustom%2Fclashofclans-mpcmhoid&theme=undefined&perline=4" />  
+  <img src="https://ren0va.amaanworks.me/icons?i=framermotion&theme=dark&perline=3" />
 </p>
 
 
