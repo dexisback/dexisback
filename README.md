@@ -3,7 +3,7 @@ Jack of all trades, master of none
 Currently:
 <p align="center">
   <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,html,javascript,linux,nodejs,postman,mongodb,tailwindcss,react,firebase,supabase,ts,nextjs,postgres,prisma,redis,vitest,prometheus,go,grafana,aws,nginx,kubernetes" />
+        <img src="https://skillicons.dev/icons?i=git,html,javascript,linux,nodejs,postman,mongodb,tailwindcss,react,firebase,supabase,ts,nextjs,postgres,prisma,redis,vitest,prometheus,go,grafana,docker,aws,nginx,kubernetes" />
   </a>
 </p>
 <!---
